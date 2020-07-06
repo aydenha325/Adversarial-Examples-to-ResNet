@@ -1,2 +1,2 @@
 # Adversarial-Examples-to-ResNet
-FGSM attack against CIFAR based ResNet
+FGSM attack against CIFAR-10 based ResNet
