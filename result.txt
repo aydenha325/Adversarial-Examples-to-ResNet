@@ -1,0 +1,181 @@
+Files already downloaded and verified
+
+epslion 0.0...
+done
+epslion 0.01...
+done
+epslion 0.02...
+done
+epslion 0.03...
+done
+epslion 0.04...
+done
+epslion 0.05...
+done
+epslion 0.06...
+done
+epslion 0.07...
+done
+epslion 0.08...
+done
+epslion 0.09...
+done
+epslion 0.1...
+done
+datasets generated successfully.
+
+ - epsilon 0.0 - 
+loss : 0.3060072959423065
+accuracy : 90.93
+- plane : 92.5
+- car   : 96.0
+- bird  : 87.9
+- cat   : 82.5
+- deer  : 91.8
+- dog   : 84.7
+- frog  : 93.8
+- horse : 91.6
+- ship  : 94.6
+- truck : 93.9
+
+ - epsilon 0.01 - 
+loss : 3.085884104156494
+accuracy : 34.47
+- plane : 72.7
+- car   : 18.2
+- bird  : 35.6
+- cat   : 31.9
+- deer  : 30.8
+- dog   : 23.8
+- frog  : 24.4
+- horse : 23.7
+- ship  : 64.5
+- truck : 19.1
+
+ - epsilon 0.02 - 
+loss : 3.6118576982498167
+accuracy : 26.87
+- plane : 61.9
+- car   : 12.9
+- bird  : 31.3
+- cat   : 25.1
+- deer  : 26.1
+- dog   : 13.2
+- frog  : 19.0
+- horse : 14.2
+- ship  : 52.5
+- truck : 12.5
+
+ - epsilon 0.03 - 
+loss : 3.9652600273132323
+accuracy : 22.58
+- plane : 54.7
+- car   : 9.6
+- bird  : 28.8
+- cat   : 22.4
+- deer  : 23.6
+- dog   : 7.6
+- frog  : 16.5
+- horse : 9.2
+- ship  : 44.1
+- truck : 9.3
+
+ - epsilon 0.04 - 
+loss : 4.208397822380066
+accuracy : 19.53
+- plane : 49.6
+- car   : 6.7
+- bird  : 27.0
+- cat   : 21.3
+- deer  : 21.4
+- dog   : 3.5
+- frog  : 15.3
+- horse : 6.4
+- ship  : 37.4
+- truck : 6.7
+
+ - epsilon 0.05 - 
+loss : 4.379594568634033
+accuracy : 17.66
+- plane : 47.6
+- car   : 4.6
+- bird  : 26.2
+- cat   : 20.8
+- deer  : 19.5
+- dog   : 2.0
+- frog  : 15.7
+- horse : 4.4
+- ship  : 31.5
+- truck : 4.3
+
+ - epsilon 0.06 - 
+loss : 4.500540603256225
+accuracy : 16.6
+- plane : 45.5
+- car   : 3.9
+- bird  : 25.3
+- cat   : 21.8
+- deer  : 18.4
+- dog   : 0.9
+- frog  : 16.9
+- horse : 3.3
+- ship  : 26.8
+- truck : 3.2
+
+ - epsilon 0.07 - 
+loss : 4.586410708236694
+accuracy : 15.85
+- plane : 44.7
+- car   : 3.6
+- bird  : 25.0
+- cat   : 21.5
+- deer  : 17.5
+- dog   : 0.6
+- frog  : 17.4
+- horse : 2.7
+- ship  : 22.6
+- truck : 2.9
+
+ - epsilon 0.08 - 
+loss : 4.649464584350586
+accuracy : 14.76
+- plane : 43.2
+- car   : 2.8
+- bird  : 23.6
+- cat   : 20.8
+- deer  : 15.5
+- dog   : 0.4
+- frog  : 17.6
+- horse : 2.3
+- ship  : 18.9
+- truck : 2.5
+
+ - epsilon 0.09 - 
+loss : 4.693488877868653
+accuracy : 14.27
+- plane : 43.2
+- car   : 2.7
+- bird  : 22.4
+- cat   : 20.4
+- deer  : 14.4
+- dog   : 0.3
+- frog  : 19.2
+- horse : 1.6
+- ship  : 16.4
+- truck : 2.1
+
+ - epsilon 0.1 - 
+loss : 4.726677291488648
+accuracy : 13.76
+- plane : 42.1
+- car   : 2.6
+- bird  : 21.9
+- cat   : 20.2
+- deer  : 13.9
+- dog   : 0.2
+- frog  : 19.8
+- horse : 1.3
+- ship  : 13.7
+- truck : 1.9
+
+All Done!
