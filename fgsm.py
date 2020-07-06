@@ -39,7 +39,7 @@ def make_example(model, test_loader, epsilon, DEVICE):
     return adversarial_examples
 
 
-# 앱실론값별 적대적 예제 세트 저장
+# 엡실론값별 적대적 예제 세트 저장
 def loop_epsilon(model, test_loader, epsilons, DEVICE):
     for epsilon in epsilons:
         print(f'epslion {epsilon}...')
@@ -88,7 +88,7 @@ if __name__ == '__main__':
     model.load_state_dict(torch.load('./model_state_dict.pth'))
     model.eval()
 
-    # 앱실론 0 : 원본
+    # 엡실론 0 : 원본
     epsilons = [0.0, 0.01, 0.02, 0.03, 0.04, 0.05, 0.06, 0.07, 0.08, 0.09, 0.1]
     loop_epsilon(model, test_loader, epsilons, DEVICE)
     print('datasets generated successfully.\n')
