@@ -1,0 +1,13 @@
+ - epsilon 0.06 - 
+loss : 4.500540603256225
+accuracy : 16.6
+- plane : 45.5
+- car   : 3.9
+- bird  : 25.3
+- cat   : 21.8
+- deer  : 18.4
+- dog   : 0.9
+- frog  : 16.9
+- horse : 3.3
+- ship  : 26.8
+- truck : 3.2
