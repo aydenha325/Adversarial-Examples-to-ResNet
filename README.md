@@ -10,12 +10,12 @@ FGSM attack against CIFAR-10 based ResNet
 3. Processor (CPU)
     - Intel(R) Core(TM) i5-7300HQ CPU @ 2.50Ghz (4 CPUs)
 4. Graphic (GPU)
-- Display
-    - Intel(R) HD Graphics 630 128MB VRAM
-- Rendering
-    - NVIDIA GeForce GTX 1050 4021MB VRAM
-        - Game Ready Driver 451.48
-        - CUDA compiler driver release 10.1, V10.1.168
+    - Display
+        - Intel(R) HD Graphics 630 128MB VRAM
+    - Rendering
+        - NVIDIA GeForce GTX 1050 4021MB VRAM
+            - Game Ready Driver 451.48
+            - CUDA compiler driver release 10.1, V10.1.168
 5. Memory (RAM)
     - DDR4 8GB (8192MB, 4GB×2 dual)
 6. Python, Anaconda
